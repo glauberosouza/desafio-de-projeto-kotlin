@@ -1,5 +1,5 @@
 # Desafio de projeto kotlin
-## Exemplo de contexto, onde iremos abstrair um domínio de aplicação.
+## Exemplo de contexto, abstrair um domínio de aplicação.
 
 > A classe Usuario é uma classe que representa um usuário, com informações como nome, idade e RA. 
 > 
